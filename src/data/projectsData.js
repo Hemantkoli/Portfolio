@@ -17,7 +17,7 @@ export const projectsData = [
         id: 1,
         projectName: 'Dev Network',
         projectDesc: 'The Dev Network is a social media platform.',
-        tags: ['MongoDB', 'Express', 'ReactJS', 'Node'],
+        tags: ['MongoDB', 'Express', 'ReactJS', 'Node', 'Redux'],
         code: 'https://github.com/Hemantkoli/Dev-Network',
         demo: 'https://dev-network-mern.herokuapp.com/',
         image: thirteen
@@ -26,7 +26,7 @@ export const projectsData = [
         id: 2,
         projectName: 'Dev Blog',
         projectDesc: 'The Dev Blog is a online publishing platform.',
-        tags: ['MongoDB', 'Express', 'ReactJS', 'Node'],
+        tags: ['MongoDB', 'Express', 'ReactJS', 'Node', 'Typescript', 'Redux', 'Socket.io'],
         code: 'https://github.com/Hemantkoli/Dev-Blog',
         demo: 'https://dev-blog-mern.herokuapp.com/',
         image: two
@@ -44,7 +44,7 @@ export const projectsData = [
         id: 4,
         projectName: 'Youtube',
         projectDesc: 'YouTube is an online video sharing and social media platform.',
-        tags: ['ReactJS'],
+        tags: ['ReactJS', 'Redux', 'Youtube API'],
         code: 'https://github.com/Hemantkoli/Youtube',
         demo: 'https://clone-3-a5e32.firebaseapp.com/',
         image: four
@@ -62,7 +62,7 @@ export const projectsData = [
         id: 6,
         projectName: 'Dev Share',
         projectDesc: 'The Dev Share is an online file sharing platform.',
-        tags: ['MongoDB', 'Express', 'ReactJS', 'Node'],
+        tags: ['MongoDB', 'Express', 'NextJS', 'Node',  'Typescript', 'Sendinblue'],
         code: 'https://github.com/Hemantkoli/shareFile-Backend',
         demo: 'https://share-file-frontend.vercel.app/',
         image: six
@@ -71,7 +71,7 @@ export const projectsData = [
         id: 7,
         projectName: 'QA',
         projectDesc: 'The QA is an online question-answer platform.',
-        tags: ['MongoDB', 'Express', 'ReactJS', 'Node'],
+        tags: ['MongoDB', 'Express', 'ReactJS', 'Node', 'Firebase'],
         code: 'https://github.com/Hemantkoli/QA',
         demo: 'https://qa-web.herokuapp.com/',
         image: thirteen
@@ -80,7 +80,7 @@ export const projectsData = [
         id: 8,
         projectName: 'MovieDB',
         projectDesc: 'The MovieDB is an online movies collection platform.',
-        tags: ['MongoDB', 'Express', 'ReactJS', 'Node'],
+        tags: ['MongoDB', 'Express', 'ReactJS', 'Node', 'Cloudinary'],
         code: 'https://github.com/Hemantkoli/MovieDB',
         demo: 'https://moviedb-mern.herokuapp.com/',
         image: eight
@@ -98,7 +98,7 @@ export const projectsData = [
         id: 10,
         projectName: 'Car Rental',
         projectDesc: 'The Car-Rental is an online car renting platform.',
-        tags: ['MongoDB', 'Express', 'ReactJS', 'Node'],
+        tags: ['MongoDB', 'Express', 'ReactJS', 'Node', 'Stripe'],
         code: 'https://github.com/Hemantkoli/Car-Rental',
         demo: 'https://car-rental-mern.herokuapp.com/',
         image: ten
@@ -116,7 +116,7 @@ export const projectsData = [
         id: 12,
         projectName: 'Code sync',
         projectDesc: 'The Code sync is a realtime code collaboration platform.',
-        tags: ['MongoDB', 'Express', 'ReactJS', 'Node'],
+        tags: ['ReactJS', 'Socket.io'],
         code: 'https://github.com/Hemantkoli/Code-sync',
         demo: 'https://code-sync-web.herokuapp.com/',
         image: twelve
@@ -125,7 +125,7 @@ export const projectsData = [
         id: 13,
         projectName: 'Postwoman',
         projectDesc: 'The Postwoman is a API API platform for building and using APIs.',
-        tags: ['MongoDB', 'Express', 'ReactJS', 'Node'],
+        tags: ['Typescript', 'Javascript', 'HTML', 'CSS'],
         code: 'https://github.com/Hemantkoli/Postwoman',
         demo: 'https://postwoman-phi.vercel.app/',
         image: seven
@@ -134,7 +134,7 @@ export const projectsData = [
         id: 14,
         projectName: 'Tekken',
         projectDesc: 'The Tekken is an fighting game.',
-        tags: ['Javascript', 'HTML', 'CSS'],
+        tags: ['Javascript', 'HTML'],
         code: 'https://github.com/Hemantkoli/Tekken',
         demo: 'https://tekken-two.vercel.app/',
         image: thirteen
